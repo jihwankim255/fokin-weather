@@ -8,6 +8,6 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-
+학습내용.hwp
 # macOS
 .DS_Store
